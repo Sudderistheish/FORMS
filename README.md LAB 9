@@ -1,0 +1,35 @@
+# FORMS
+
+HTML Forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+
+Read CLASS 9
+
+Why are forms so important in web development?
+Forms are important because they allow users to enter data, which is generally sent to a web server for processing and storage and clients can update the interface immediately.
+
+When designing a form, what are some key things to keep in mind when it comes to user experience?
+You should design a mock up to define the set of data you want to use. Determine the size . Ask for only data you need. Determine the elements you want to use.
+List 5 form elements and explain their importance. 
+The five elements are:
+Form: represents a document section containing interactive controls for submitting information
+Label:  represents a caption for an item in a user interface.
+Input: used to create interactive controls for webbased forms in order to accept data from the user.
+Textarea:  Represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text.
+Button: Is an interactive element activated by a user with a mouse, keyboard, finger, voice command, or other assistive technology. Once activated, it then performs an action, such as submitting a form or opening a dialog.
+Learn JS
+Introduction To Events.
+
+How would you describe events to a non-technical friend?
+I would explain it in this way. A event tells the computer system being programmed what to do and how to react to my commands in the computer code.
+When using the addEventListener() method, what 2 arguments will you need to provide?
+The two arguments you would provide are:
+1.	 addEventListner is also known as event handler are the type of event such as click 
+2.	The HTML event such as DOM,  the function we need to call went the event occurs
+
+Describe the event object. Why is the target within the event object useful?
+EVENT Object and it is automatically passed to event handlers to provide extra features and information.
+What is the difference between event bubbling and event capturing?
+The difference between event bubbling and event capturing are:
+Event bubbling the browser captures the and handled inside element and then propagated to the outer elements.
+Event capturing  the browser handles events targeted outside of the nested elements and then propagated to the inner elements.
